@@ -12,7 +12,7 @@
 
 *4. Sebagai contoh lihat pada gambar di bawah ini, disini saya hanya menginputkan 3 kali perulangan ;*
 
-![praktikum 4 prog](https://user-images.githubusercontent.com/57055098/69595217-8c35cf00-1031-11ea-84d5-2eb159be83b7.png)
+![praktikum 4 hasil](https://user-images.githubusercontent.com/57055098/69595209-850ec100-1031-11ea-8858-6a6e6249dcd6.png)
 
 **FLOW CHART**
 ---
